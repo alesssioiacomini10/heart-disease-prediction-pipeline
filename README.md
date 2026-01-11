@@ -1,7 +1,7 @@
 # End-to-End Diagnostic AI Pipeline (Heart Disease)
 
 ## 1. Executive Summary
-This project implements a robust Machine Learning pipeline to predict the presence of heart disease in patients. By analyzing 13 medical indicators  (including age (Age), sex (Gender), cp (Chest Pain Type), trestbps (Resting Blood Pressure), chol (Serum Cholesterol), fbs (Fasting Blood Sugar), restecg (Resting ECG Results), thalach (Max Heart Rate), exang (Exercise Induced Angina), oldpeak (ST Depression), slope (Slope of the Peak Exercise ST Segment), ca (Number of Major Vessels), thal (Thalassemia) ), the system acts as a high-precision "Second Opinion" tool for medical professionals.
+This project implements a robust Machine Learning pipeline to predict the presence of heart disease in patients. By analyzing 13 medical indicators  (including age, sex, cp (Chest Pain Type), trestbps (Resting Blood Pressure), chol (Serum Cholesterol), fbs (Fasting Blood Sugar), restecg (Resting ECG Results), thalach (Max Heart Rate), exang (Exercise Induced Angina), oldpeak (ST Depression), slope (Slope of the Peak Exercise ST Segment), ca (Number of Major Vessels), thal (Thalassemia) ), the system acts as a high-precision "Second Opinion" tool for medical professionals.
 
 The final system uses a **Logistic Regression** model which achieved **91.4% accuracy** in stress tests and passed a rigorous **Gender Bias Audit**, ensuring equitable performance across demographics.
 
